@@ -1,6 +1,6 @@
 # Endless Runner Ninja
 
-Este é um jogo digital 2D do subgênero *Endless Runner* desenvolvido na **Unity 6 (6000.3.10f1)** utilizando o **Universal Render Pipeline (URP)**. O projeto foi projetado com foco em alta performance (utilizando a API gráfica Vulkan/DirectX), modularidade de código e geração procedural de obstáculos, servindo como Produto Mínimo Viável (MVP) para avaliação de Arquitetura de Software e Desenvolvimento de Jogos.
+Este é um jogo digital 2D do subgênero *Endless Runner* desenvolvido na **Unity 6 (6000.3.10f1)** utilizando o **Universal Render Pipeline (URP)**. O projeto foi projetado com foco em alta performance (utilizando a API gráfica Vulkan/DirectX), modularidade de código e geração procedural de obstáculos, servindo como Produto Mínimo Viável (MVP) para avaliação de Game Engine.
 
 ## 🛠️ Tecnologias e Arquitetura
 
